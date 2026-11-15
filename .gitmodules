@@ -1,0 +1,6 @@
+[submodule "A-Maze-ing"]
+	path = A-Maze-ing
+	url = https://github.com/yazeedbarakat/A-Maze-ing
+[submodule "Pacman"]
+	path = Pacman
+	url = https://github.com/yazeedbarakat/Pacman
